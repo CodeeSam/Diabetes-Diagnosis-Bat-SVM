@@ -227,27 +227,6 @@ This type of project can be useful as a starting point for:
 - medical AI learning projects
 - simple machine learning app deployment
 
-## Recommended Repository Improvements
-
-For better organization, the current structure can later be improved to:
-
-```text
-Diabetes-Diagnosis-Bat-SVM/
-├── app.py
-├── data/
-│   └── diabetes.csv
-├── models/
-│   └── diabetes_model_assets.pkl
-├── src/
-│   └── train_diabetes_model.py
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-└── README.md
-```
-
-However, the current structure is still acceptable for a small applied machine learning project.
-
 ## Author
 
 **Samson Ayorinde Oni**  
